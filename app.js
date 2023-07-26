@@ -79,3 +79,4 @@ const displayResult = (year, month, days) => {
 };
 
 calcAgeBtn.addEventListener("click", ageCalculate);
+
